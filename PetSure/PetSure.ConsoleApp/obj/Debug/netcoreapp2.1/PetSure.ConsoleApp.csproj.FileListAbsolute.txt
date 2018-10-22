@@ -1,0 +1,10 @@
+C:\Users\Randel\Documents\Visual Studio 2017\Projects\PetSure\PetSure.ConsoleApp\bin\Debug\netcoreapp2.1\PetSure.ConsoleApp.deps.json
+C:\Users\Randel\Documents\Visual Studio 2017\Projects\PetSure\PetSure.ConsoleApp\bin\Debug\netcoreapp2.1\PetSure.ConsoleApp.runtimeconfig.json
+C:\Users\Randel\Documents\Visual Studio 2017\Projects\PetSure\PetSure.ConsoleApp\bin\Debug\netcoreapp2.1\PetSure.ConsoleApp.runtimeconfig.dev.json
+C:\Users\Randel\Documents\Visual Studio 2017\Projects\PetSure\PetSure.ConsoleApp\bin\Debug\netcoreapp2.1\PetSure.ConsoleApp.dll
+C:\Users\Randel\Documents\Visual Studio 2017\Projects\PetSure\PetSure.ConsoleApp\bin\Debug\netcoreapp2.1\PetSure.ConsoleApp.pdb
+C:\Users\Randel\Documents\Visual Studio 2017\Projects\PetSure\PetSure.ConsoleApp\obj\Debug\netcoreapp2.1\PetSure.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Randel\Documents\Visual Studio 2017\Projects\PetSure\PetSure.ConsoleApp\obj\Debug\netcoreapp2.1\PetSure.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Randel\Documents\Visual Studio 2017\Projects\PetSure\PetSure.ConsoleApp\obj\Debug\netcoreapp2.1\PetSure.ConsoleApp.AssemblyInfo.cs
+C:\Users\Randel\Documents\Visual Studio 2017\Projects\PetSure\PetSure.ConsoleApp\obj\Debug\netcoreapp2.1\PetSure.ConsoleApp.dll
+C:\Users\Randel\Documents\Visual Studio 2017\Projects\PetSure\PetSure.ConsoleApp\obj\Debug\netcoreapp2.1\PetSure.ConsoleApp.pdb
